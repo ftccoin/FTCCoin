@@ -1,0 +1,9 @@
+Building FINAD
+
+See doc/readme-qt.rst for instructions on building FINAD QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of FINAD.
+
+See doc/build-*.txt for instructions on building finadd,
+the intended-for-services, no-graphical-interface, reference
+implementation of FINAD.
